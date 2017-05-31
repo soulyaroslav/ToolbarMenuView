@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToolbarMenuView</string>
+    <string name="services">Services</string>
+    <string name="auto">Auto</string>
+    <string name="job">Job</string>
+    <string name="reality">reality</string>
+</resources>

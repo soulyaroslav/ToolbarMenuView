@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="service_layout_background">#d088d1</color>
+    <color name="auto_layout_background">#bf7663</color>
+    <color name="job_layout_background">#90c46d</color>
+    <color name="reality_layout_background">#57aad7</color>
+</resources>
